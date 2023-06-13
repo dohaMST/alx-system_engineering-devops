@@ -1,2 +1,2 @@
 #!/bin/bash
-cud -d ":" -f 1,6 /etc/passwd
+cud -d ":" -f 1,6 /etc/passwd | sort
